@@ -1,4 +1,4 @@
-### Haaaay! 👋  
+### YarRrr! 👋  
 I'm a student and software developer specializing in backend development with Java.  
 Currently studying Data and Software Engineering in Uni.  
 
